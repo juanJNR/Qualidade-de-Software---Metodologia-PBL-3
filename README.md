@@ -1,10 +1,7 @@
 # Projeto — Qualidade de Software
 
 ## 👥 Integrantes
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
-- Nome Completo — Matrícula
+- Juan — 071920005
 
 ## 🎯 Objetivo do Repositório
 Este repositório reúne as atividades desenvolvidas na disciplina de
@@ -24,10 +21,6 @@ ao sistema **LocalEats**.
 | Aula 14 | Qualidade de Processo | [`docs/aula-14-qualidade-processo/aula-14-qualidade-processo.md`](docs/aula-14-qualidade-processo/aula-14-qualidade-processo.md) |
 | Aula 15 | Modelos de Maturidade | [`docs/aula-15-modelos-maturidade/aula-15-modelos-maturidade.md`](docs/aula-15-modelos-maturidade/aula-15-modelos-maturidade.md) |
 | Aula 16 | Qualidade em Metodologias Ágeis | [`docs/aula-16-qualidade-metodologias-ageis/aula-16-qualidade-metodologias-ageis.md`](docs/aula-16-qualidade-metodologias-ageis/aula-16-qualidade-metodologias-ageis.md) |
-| Aula 17 | Integração Contínua, Qualidade Automatizada, Métricas e Gestão de Defeitos | [`docs/aula-17-integracao-continua-qualidade/aula-17-integracao-continua-qualidade.md`](docs/aula-17-integracao-continua-qualidade/aula-17-integracao-continua-qualidade.md) |
-
-O código-fonte e o workflow de CI de apoio à Aula 17 estão em
-`src/aula-17-integracao-continua-qualidade/`.
 
 ## 🧩 Metodologia
 Aprendizagem Baseada em Problemas (PBL), com foco no desenvolvimento de
